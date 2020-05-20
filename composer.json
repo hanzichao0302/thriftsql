@@ -1,0 +1,11 @@
+{
+    "name": "thirftsql/dgthrift",
+    "type": "libraray",
+    "authors": [
+        {
+            "name": "hanzc",
+            "email": "hanzichao@douguo.com"
+        }
+    ],
+    "require": {}
+}
