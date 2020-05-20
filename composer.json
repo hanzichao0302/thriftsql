@@ -1,6 +1,7 @@
 {
     "name": "thirftsql/dgthrift",
     "type": "libraray",
+	"minimum-stability": "dev",
     "authors": [
         {
             "name": "hanzc",
